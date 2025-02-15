@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "DapueD9qZshB29VyGn++9Uik4NVbvuYubvGtiwMLdtI=",
+  "Source": "HealthcareManagement.API",
+  "BasePath": "_content/HealthcareManagement.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
