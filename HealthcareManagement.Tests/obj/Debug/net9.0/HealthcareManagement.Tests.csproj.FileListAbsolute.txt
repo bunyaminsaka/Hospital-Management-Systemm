@@ -1,0 +1,7 @@
+C:\Users\cagri\PythonCode\BYS\HMS-1-main\HealthcareSystem\HealthcareManagement.Tests\bin\Debug\net9.0\.msCoverageSourceRootsMapping_HealthcareManagement.Tests
+C:\Users\cagri\PythonCode\BYS\HMS-1-main\HealthcareSystem\HealthcareManagement.Tests\bin\Debug\net9.0\CoverletSourceRootsMapping_HealthcareManagement.Tests
+C:\Users\cagri\PythonCode\BYS\HMS-1-main\HealthcareSystem\HealthcareManagement.Tests\obj\Debug\net9.0\HealthcareManagement.Tests.csproj.AssemblyReference.cache
+C:\Users\cagri\PythonCode\BYS\HMS-1-main\HealthcareSystem\HealthcareManagement.Tests\obj\Debug\net9.0\HealthcareManagement.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cagri\PythonCode\BYS\HMS-1-main\HealthcareSystem\HealthcareManagement.Tests\obj\Debug\net9.0\HealthcareManagement.Tests.AssemblyInfoInputs.cache
+C:\Users\cagri\PythonCode\BYS\HMS-1-main\HealthcareSystem\HealthcareManagement.Tests\obj\Debug\net9.0\HealthcareManagement.Tests.AssemblyInfo.cs
+C:\Users\cagri\PythonCode\BYS\HMS-1-main\HealthcareSystem\HealthcareManagement.Tests\obj\Debug\net9.0\HealthcareManagement.Tests.csproj.CoreCompileInputs.cache
